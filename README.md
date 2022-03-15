@@ -13,7 +13,7 @@
 
 
 <p align="left">
-<a href="https://linkedin.com/in/divya-bhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-bhatt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divya-bhatt-0393b521a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divya-bhatt" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@divyabhatt5858" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@divyabhatt5858" height="30" width="40" /></a>
 </p>
 
